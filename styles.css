@@ -1,0 +1,22 @@
+h3{
+    color: blueviolet;
+}
+p{
+    font: 30px;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+#title{
+    color: red;
+}
+.redbox{
+    background-color:red
+}
+.box{
+    width: 100px;
+    height: 100px;
+}
+.bluebox{
+    background-color: blue;
+}
